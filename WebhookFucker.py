@@ -80,4 +80,4 @@ for i in range(totalmessages):
     time.sleep(messagedelay)
     main()
 
-input("Webhook Fucker finished fucking the webhook, press any key to exit")
+input("Webhook Fucker finished fucking the webhook, press Enter to exit")
