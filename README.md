@@ -15,4 +15,4 @@ Q: My program is not working / opening / running, what do I do? | A: Make sure y
 Q: How can I send custom messages to the discord webhook? | A: In the folder you downloaded there should be a file called "customspam.txt".
 You can use this to write custom messages for the Discord webhook, every new line will count as a different message.
 
-Q: Should i use this for educational purposes? | A: You MUST use this for educational purposes, since you are FULLY RESPONSIBLE for using this webhook obliterator.
+Q: Should i use this for educational purposes? | A: You can use this for educational purposes or destruction purposes, however you are FULLY RESPONSIBLE for using this webhook obliterator.
