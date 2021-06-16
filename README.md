@@ -2,9 +2,9 @@
 Completely eradicates a Discord text channel by spamming messages as the webhook.
 # How to use
 1. Make sure you have installed the following:
- - Latest version of Python
- - Pip install for Python
- - Python discord webhook
+ - Latest version of Python (v3.x.x)
+ - Pip for Python
+ - Python discord webhook (pip install discord-webhook)
 2. If you have installed the following, run WebhookFucker.py and you're good to go!
 # FAQ
 Q: My program is not working / opening / running, what do I do? | A: Make sure you downloaded and/or installed ALL of the programs below
