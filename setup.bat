@@ -10,7 +10,7 @@ title Setup (1/2 packages installed)
 
 pip install discord_webhook
 
-title Setup (Done!)
+title Setup (2/2 packages installed)
 
 echo Installed all packages!
 
