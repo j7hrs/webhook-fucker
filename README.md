@@ -12,7 +12,10 @@ Q: My program is not working / opening / running, what do I do? | A: Make sure y
  - Pip install for Python
  - Python discord webhook
 
-Q: How can I send custom messages to the discord webhook? | A: In the folder you downloaded there should be a file called "customspam.txt".
-You can use this to write custom messages for the Discord webhook, every new line will count as a different message.
+Q: How can I send custom messages to the discord webhook? 
+A: In the folder you downloaded there should be a file called "customspam.txt". You can use this to write custom messages for the Discord webhook, every new line will count as a different message.
 
-Q: Should i use this for educational purposes? | A: You can use this for educational purposes or destruction purposes, however you are FULLY RESPONSIBLE for using this webhook obliterator.
+Q: Should i use this for educational purposes? 
+A: You can use this for educational purposes or destruction purposes, however you are FULLY RESPONSIBLE for using this webhook obliterator.
+
+`by j7hr0/egor1654, if you are going to use this in your mutlitool then give credit or haram`
