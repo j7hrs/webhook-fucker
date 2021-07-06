@@ -18,4 +18,4 @@ A: In the folder you downloaded there should be a file called "customspam.txt". 
 Q: Should i use this for educational purposes? 
 A: You can use this for educational purposes or destruction purposes, however you are FULLY RESPONSIBLE for using this webhook obliterator.
 
-`by j7hr0/egor1654, if you are going to use this in your mutlitool then give credit or haram`
+`by j7hrs/egor1654, if you are going to use this in your mutlitool then give credit or haram`
