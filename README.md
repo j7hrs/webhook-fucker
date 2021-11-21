@@ -1,7 +1,7 @@
 # webhook-fucker
 Completely eradicates a Discord text channel by spamming messages as the webhook.
 # Update
-Tired of chunky Discord rate-limiting your messages? Well i couldn't care more but i've made the spammer wait when the rate-limit is exceeded.
+Tired of chunky Discord ratelimiting your messages? Well i couldn't care more but i've made the spammer wait when the rate limit is exceeded.
 # How to use
 1. Make sure you have installed the following:
  - Latest version of Python (v3.x.x)
